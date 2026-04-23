@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif; 
+    background-color: #F0F8F8;
+    color: #0D2E34;
+    line-height: 1.5;
+}
+
+h2 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: #17454F;
+}
+
+a {
+    color: #1E6575;
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+    display: block; 
+}
+
+button, 
+input, 
+select, 
+textarea {
+    font-family: inherit;
+}
+
+.site-header {
+    background-color: #17454F;
+    color: #FFFFFF;
+    padding: 1rem 0;
+}
+
+.site-header h1 {
+    color: #FFFFFF; 
+}
+
+.site-header a {
+    color: #FFFFFF; 
+    margin: 0 10px;
+}
